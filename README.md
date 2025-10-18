@@ -72,10 +72,10 @@ Score = (Reward - Effort) with Cost as tie-breaker
 
 ### Priority List
 
+1. Ground Butter - Ground Popcorn
 1. Ground Butter - Non-Ground Popcorn
-2. Ground Butter - Ground Popcorn
-3. Non-Ground Butter - Non-Ground Popcorn
-4. Non-Ground Butter - Ground Popcorn
+1. Non-Ground Butter - Non-Ground Popcorn
+1. Non-Ground Butter - Ground Popcorn
 
 
 ## Scoring
